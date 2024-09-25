@@ -275,9 +275,5 @@ function update_node() {
 }
 
 
-
 # 启动主菜单
 main_menu
-
-
-
